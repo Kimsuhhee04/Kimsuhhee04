@@ -40,7 +40,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimsuhhee04&show_icons=true&theme=flag-india" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuhhee04&layout=compact&theme=flag-india" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuhhee04&layout=compact&theme=flag-india&repo=hans" />
 </p>
 
 <h3 align="center">📫 Contact 📫</h3>
