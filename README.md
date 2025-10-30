@@ -11,6 +11,15 @@
 </div>
 
 <div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kimsuhhee04&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Kimsuhhee04"
+  width="1000"
+  height="300"
+/>
+</a></div>
+
+<div align="center">
 <h3>🌱 I’m currently learning ...</h3>
 </div>
 
