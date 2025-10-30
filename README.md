@@ -43,6 +43,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuhhee04&layout=compact&theme=flag-india" />
 </p>
 
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:kimyesol0428@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kimyesol0428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 <!--
 **Kimsuhhee04/Kimsuhhee04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
