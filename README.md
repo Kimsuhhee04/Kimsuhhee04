@@ -60,7 +60,7 @@
 
 <br>
 <hr>
-
+<!--
 <div align="center" style="font-size: 0;">
   <img src="https://github.com/Kimsuhhee04/Kimsuhhee04/blob/8b0e4bc5615c096c7b94638a7e2fdb9ff1e8545f/IMG_2388.GIF" width="500"/>
 </div>
@@ -70,6 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kimsuhhee04&show_icons=true&theme=flag-india" alt="Anurag's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsuhhee04&layout=donut&show_icons=true&theme=flag-india" />
 </p>
+-->
 
 <h3 align="center">📫 MAIL 📫</h3>
 <div align="center">
