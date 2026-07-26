@@ -2,9 +2,9 @@
 <div align="center">
   <img width=500 src="https://github.com/Kimsuhhee04/uplo/blob/main/suhheegithub.gif" />
 	<br>
-	 <img width=700 src="https://github.com/Kimsuhhee04/uplo/blob/main/suhheeb.gif"/>
+	 <img width=600 height=100 src="https://github.com/Kimsuhhee04/uplo/blob/main/suhheeb.gif"/>
 	<br>
-	<img width=200 src="https://github.com/Kimsuhhee04/uplo/blob/main/suhheedot.gif" />
+	<img width=100 src="https://github.com/Kimsuhhee04/uplo/blob/main/suhheedot.gif" />
 </div>
 
 <!-- 물결 + 깃허브 인사말 -->
